@@ -53,3 +53,4 @@ The `math` package is being moved to [`soypat/geometry`](https://github.com/soyp
 
 Or more simply, run a single replace directive in all of your project:
 - `"github.com/incompletepi/glgl/math/` -> `"github.com/soypat/geometry/`
+                                                                                                    
